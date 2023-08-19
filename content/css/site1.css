@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+* {
+    font-family: Montserrat, sans-serif
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    background-color: navy;
+    /* background: linear-gradient(95deg, navy 0%, rgb(128, 0, 38) 100%); */
+}
+
+html {
+    width: 100%;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 40px
+}
+
+table#Abfahrten {
+    width: 100%;
+    color: #fff;
+    border-collapse: collapse;
+    font-size: xx-large;
+    border-color: #fff;
+    border: 0px solid;
+    text-align: left;
+
+}
+
+table#Abfahrten td {
+    position: relative;
+}
+
+tr.vrs-table-inner-item {
+
+    border-bottom: #fff 1px solid;
+}
+
+
+thead {
+    background-color: #000000a6;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+
+}
+
+.vrs-table-line-item-intime {
+    background-color: #00c906;
+    margin: 4px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 5px 3px 7px 0px rgba(0, 0, 0, 0.5);
+
+}
+
+.vrs-table-line-item-late {
+    background-color: red;
+    margin: 4px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 5px 3px 7px 0px rgb(0, 0, 0, 0.5);
+}
+
+.delayplakette {
+    background-color: #892be280;
+    padding: 0px 2px 0px 2px;
+    margin: 0px;
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    font-family: 'Inconsolata', monospace;
+    box-shadow: 5px 3px 7px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 16px;
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(5.5px);
+    border: 1px solid #892be294
+}
+
+.scrollable-table {
+    max-height: 1080px;
+    overflow-y: hidden;
+}
+
+.td-4 {
+    text-align: center;
+}

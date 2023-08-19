@@ -1,0 +1,7 @@
+{
+  "name": "phpsignage",
+  "version": "1.0.0",
+  "dependencies": {
+    "merry-timeline": "^0.5.0"
+  }
+}
