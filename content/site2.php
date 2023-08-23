@@ -1,5 +1,19 @@
+<?php
+function getnewsarray()
+{
+    return json_decode(file_get_contents("https://www.tagesschau.de/api2/homepage/"), true);
+}
+
+function getnewspage($site)
+{
+    return getnewsarray()["news"][$site];
+}
+
+?>
+
 <!DOCTYPE html>
-<html lang="en">
+
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
@@ -11,15 +25,7 @@
 <body>
 <?php
 
-function getnewsarray()
-{
-    return json_decode(file_get_contents("https://www.tagesschau.de/api2/homepage/"), true);
-}
 
-function getnewspage($site)
-{
-    return getnewsarray()["news"][$site];
-}
 
 $news = getnewspage($_SESSION["newspage"]);
 if (isset($news["ressort"])) {
@@ -72,9 +78,11 @@ echo("</div>");
 
 <?php
 
-
 echo("</div>");
 $_SESSION["newspage"] = $_SESSION["newspage"] + 1;
+if ($_SESSION["newspage"] > 9 or !isset($_SESSION["newspage"])) {
+    $_SESSION["newspage"] = 0;
+}
 ?>
 
 </body>

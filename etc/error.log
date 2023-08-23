@@ -1,118 +1,321 @@
-[19.08.2023 19:05:50] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 19:05:59] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 19:06:03] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 19:06:15] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 19:31:15] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 19:56:15] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:13:04] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19-Aug-2023 20:13:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 9
-[19.08.2023 20:13:42] Fehler/Warnung: 
-[19-Aug-2023 20:14:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 9
-[19.08.2023 20:14:31] Fehler/Warnung: 
-[19-Aug-2023 20:14:51 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 9
-[19.08.2023 20:14:51] Fehler/Warnung: 
-[19.08.2023 20:20:39] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:21:25] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:21:39] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:22:24] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:24:00] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:24:39] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:24:52] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:25] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:30] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:35] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:40] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:45] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:50] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:25:55] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:00] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:05] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:10] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:15] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:20] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:25] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:30] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:36] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:41] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:46] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:51] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:26:56] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:01] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:06] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:11] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:16] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:21] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:26] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:31] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:36] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:41] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:46] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:52] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:27:57] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:02] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:07] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:12] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:17] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:22] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:27] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:32] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:37] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:42] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:47] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:52] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:28:57] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:02] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:07] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:12] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:17] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:22] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:27] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:32] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:37] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:42] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:47] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:52] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:29:57] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:02] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:07] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:12] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:17] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:22] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:27] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:32] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:37] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:42] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:47] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:52] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:30:57] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:02] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:07] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:12] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:17] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:22] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:27] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:32] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:37] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:43] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:48] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:53] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:31:58] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:03] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:08] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:13] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:18] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:23] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:28] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:33] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:38] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:43] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:48] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:53] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:32:54] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:33:55] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:35:41] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:37:41] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:38:30] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:40:30] Fehler/Warnung: Keine gültiges Programm in inc/content_matrix.php definiert
-[19.08.2023 20:46:52] Fehler/Warnung: Undefined array key "i"
-[19.08.2023 20:49:00] Fehler/Warnung: Undefined array key "i"
+[20.08.2023 01:40:02] Fehler/Warnung: Undefined array key "i"
+[20.08.2023 01:43:49] Fehler/Warnung: Trying to access array offset on value of type null
+[20-Aug-2023 01:54:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function slowOnError() in /home/marius/PhpstormProjects/phpsignage/inc/clock.php:22
+Stack trace:
+#0 /home/marius/PhpstormProjects/phpsignage/index.php(10): clock()
+#1 {main}
+  thrown in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 22
+[20-Aug-2023 01:54:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function slowOnError() in /home/marius/PhpstormProjects/phpsignage/inc/clock.php:22
+Stack trace:
+#0 /home/marius/PhpstormProjects/phpsignage/index.php(10): clock()
+#1 {main}
+  thrown in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 22
+[20.08.2023 02:04:26] Fehler/Warnung: Undefined array key "i"
+[20.08.2023 02:05:53] Fehler/Warnung: Undefined variable $sleepsec
+[20-Aug-2023 02:08:25 Europe/Berlin] PHP Warning:  Undefined variable $sleepsec in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 31
+[20.08.2023 02:08:25] Fehler/Warnung: Undefined variable $sleepsec
+[20-Aug-2023 02:08:25 Europe/Berlin] PHP Warning:  Undefined variable $sleepsec in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 31
+[20.08.2023 02:08:28] Fehler/Warnung: Undefined variable $sleepsec
+[20-Aug-2023 02:09:15 Europe/Berlin] PHP Warning:  Undefined variable $sleepsec in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 31
+[20-Aug-2023 02:09:15 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 31
+[20-Aug-2023 02:09:15 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20.08.2023 02:09:15] Fehler/Warnung: Undefined array key "i"
+[20-Aug-2023 02:09:15 Europe/Berlin] PHP Warning:  Undefined variable $sleepsec in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 31
+[20.08.2023 02:09:17] Fehler/Warnung: Undefined variable $sleepsec
+[20-Aug-2023 02:10:16 Europe/Berlin] PHP Warning:  Undefined variable $sleepsec in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 31
+[20.08.2023 02:10:19] Fehler/Warnung: Undefined variable $sleepsec
+[20-Aug-2023 02:14:59 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:01] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:13 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:13] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:13 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:16] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:28 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:28] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:28 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:30] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:42 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:42] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:42 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:45] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:57 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:15:57] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:15:57 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:00] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:12 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:12] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:12 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:14] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:26 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:26] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:26 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:29] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:41 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:41] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:41 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:43] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:55 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:55] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:16:55 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:16:58] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:10 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:10] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:10 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:13] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:25 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:25] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:25 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:27] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:39 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:39] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:39 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:42] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:54 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:54] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:17:54 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:17:56] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:08 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:08] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:08 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:11] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:23 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:23] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:23 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:26] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:38 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:38] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:38 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:40] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:52 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:52] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:18:52 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:18:55] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:07 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:07] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:07 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:09] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:21 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:21] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:21 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:23] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:35 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:35] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:35 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:38] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:50 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:50] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:19:50 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:19:52] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:04 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:04] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:04 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:07] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:19 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:19] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:19 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:21] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:33 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:33] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:33 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:36] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:20:46 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:20:46] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:20:49] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:01 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:01] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:01 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:01] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:21:03] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:16 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:16] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:16 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:16] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:21:18] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:30 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:30] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:30 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:30] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:21:32] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:44 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:44] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:44 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:44] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:21:47] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:59 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:59] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:21:59 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:21:59] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:22:01] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:13 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:13] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:13 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:13] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:22:16] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:28 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:28] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:28 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:28] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:22:31] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:33 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20-Aug-2023 02:22:33 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:22:33 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20.08.2023 02:22:33] Fehler/Warnung: Undefined array key "i"
+[20-Aug-2023 02:22:43 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:43] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:43 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:43] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:22:45] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:57 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:57] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:22:57 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:22:57] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:23:00] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:23:00 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20-Aug-2023 02:23:00 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:23:00 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20.08.2023 02:23:00] Fehler/Warnung: Undefined array key "i"
+[20-Aug-2023 02:23:00 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:23:00] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:23:02] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:23:14 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:23:14] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:23:14 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:23:14] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:23:17] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:23:29 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:23:29] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:23:29 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:23:29] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:23:31] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:23:49 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20-Aug-2023 02:23:49 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:23:49 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20.08.2023 02:23:49] Fehler/Warnung: Undefined array key "i"
+[20-Aug-2023 02:23:49 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:23:49] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:23:51] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:03 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:03] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:03 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:03] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:24:06] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:18 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:18] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:18 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:18] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:24:21] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:33 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:33] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:33 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:33] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:24:35] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:36 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:36] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:24:39] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:51 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:51] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:24:51 Europe/Berlin] PHP Warning:  Undefined variable $criticalError in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20.08.2023 02:24:51] Fehler/Warnung: Undefined variable $criticalError
+[20.08.2023 02:24:53] Fehler/Warnung: Undefined variable $criticalError
+[20-Aug-2023 02:25:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function criticalError() in /home/marius/PhpstormProjects/phpsignage/inc/clock.php:19
+Stack trace:
+#0 /home/marius/PhpstormProjects/phpsignage/inc/clock.php(34): clock()
+#1 /home/marius/PhpstormProjects/phpsignage/index.php(4): include('...')
+#2 {main}
+  thrown in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 19
+[20-Aug-2023 02:26:37 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:37 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:38 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:26:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:26:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 02:26:45 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 02:27:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 02:30:40 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:30:40 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 02:30:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20.08.2023 02:30:53] Fehler/Warnung: Undefined variable $logFilePath
+[20-Aug-2023 02:30:53 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20.08.2023 02:31:01] Fehler/Warnung: Undefined variable $logFilePath
+[20-Aug-2023 02:31:01 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:31:01 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 02:31:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 02:31:28 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 02:31:28 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 02:31:28 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 22:59:56 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 22:59:56 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 22:59:56 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 22:59:56 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 22:59:59 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:00 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:00 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:00 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:02 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:02 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:04 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:04 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:05 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:07 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:15 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 23:00:15 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 23:00:15 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:00:18 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 23:00:18 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 23:00:18 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:00:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:31 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:42 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/clock.php on line 34
+[20-Aug-2023 23:00:45 Europe/Berlin] PHP Warning:  Undefined array key "i" in /home/marius/PhpstormProjects/phpsignage/inc/content_matrix.php on line 2
+[20-Aug-2023 23:00:45 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:00:54 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:00:55 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:01:07 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:01:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:01:31 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:01:43 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:01:55 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:02:08 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:02:20 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:02:32 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:02:44 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:02:56 Europe/Berlin] PHP Fatal error:  Cannot redeclare criticalError() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:07:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:09:10 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:09:16 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:10:30 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:14:25 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:14:29 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:14:45 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:14:50 Europe/Berlin] PHP Fatal error:  Cannot redeclare errorHandler() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 15
+[20-Aug-2023 23:16:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:16:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:16:40 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:16:52 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:16:53 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:17:38 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:18:16 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:15) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 13
+[20-Aug-2023 23:18:39 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:17) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 17
+[20-Aug-2023 23:19:20 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:16) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 13
+[20-Aug-2023 23:20:02 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:25) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 25
+[20-Aug-2023 23:20:15 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:25) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 25
+[20-Aug-2023 23:20:53 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:26) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 26
+[20-Aug-2023 23:24:23 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:16) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 13
+[20-Aug-2023 23:24:23 Europe/Berlin] PHP Stack trace:
+[20-Aug-2023 23:24:23 Europe/Berlin] PHP   1. {main}() /home/marius/PhpstormProjects/phpsignage/index.php:0
+[20-Aug-2023 23:24:23 Europe/Berlin] PHP   2. include() /home/marius/PhpstormProjects/phpsignage/index.php:8
+[20-Aug-2023 23:25:19 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:16) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 13
+[20-Aug-2023 23:25:28 Europe/Berlin] PHP Fatal error:  Cannot redeclare bsod() (previously declared in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php:16) in /home/marius/PhpstormProjects/phpsignage/inc/error_handler.php on line 13

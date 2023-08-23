@@ -1,6 +1,6 @@
 <?php
 #Slotaktualisierungsintervall (s)
-$clock = "5";
+$sleepsec = "13";
 #Wetter
 $apikey = "JlKoPl8CNUQZL5ye";
 $lat = "50.5754022";

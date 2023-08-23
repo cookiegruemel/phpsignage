@@ -1,6 +1,7 @@
 <?php
 include("inc/getweather.php");
 include("inc/config.php");
+include("inc/error_handler.php");
 $weatherdays = extractdailydatafromweatherarray($apikey, $lat, $lon)[2];
 DEVgetjsonfile(extractdailydatafromweatherarray($apikey, $lat, $lon));
 
@@ -34,6 +35,7 @@ DEVgetjsonfile(extractdailydatafromweatherarray($apikey, $lat, $lon));
       //echo ("</th><th>" . ($weatherday["visibility"]) . "km");
         echo ("</th><th>" . round(($weatherday["windSpeed"]) * 3.6) . "km/h " . interpretWindBearing($weatherday["windBearing"]));
         echo ("</tr>");
+
     }
     ?>
     </tbody>

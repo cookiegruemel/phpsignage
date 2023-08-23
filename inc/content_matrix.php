@@ -1,16 +1,30 @@
 <?php
+
+include("inc/checktime.php");
+include("inc/clock.php");
 $slot = $_GET["i"];
 
 if (istesttime()) {
     if ($slot == 1) {
         include "content/site3.php";
-
-    if ($slot > 1) {
-        streak_end();}
     }
+    if ($slot == 2) {
+        include "content/site2.php";
+    }
+    if ($slot == 3) {
+        include "content/site2.php";
+    }
+    if ($slot == 4) {
+        include "content/site2.php";
+    }
+    if ($slot == 5) {
+        include "content/site1.php";
+    } elseif ($slot > 5) {
+        streak_end();}
+
 } elseif (isbefore0815()) {
     if ($slot == 1) {
-        include "content/site2.php";
+        include "content/site3.php";
     }
     if ($slot > 1) {
         streak_end();
@@ -51,5 +65,5 @@ if (istesttime()) {
         streak_end();
     }
 } else {
-    trigger_error("Keine gültiges Programm in inc/content_matrix.php definiert");
+    include("content/error.php");
 }
